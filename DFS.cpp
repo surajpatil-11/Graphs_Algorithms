@@ -26,7 +26,8 @@ void DFS_UNTILL()
 
 int main()
 {
-   // int n ,m ;
+   // n is no. of vertex
+   // m is no. of edge
     cin >> n >> m ;
     while(m--)
     {
