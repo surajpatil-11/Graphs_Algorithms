@@ -154,8 +154,10 @@ int main()
 
     return 0;
 }
-/*
 
+
+/*
+https://www.spoj.com/problems/QTREE2/
 14
 0 1
 0 5
