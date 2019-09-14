@@ -89,6 +89,6 @@ int main()
 6 8 6
 7 8 7
 
-
+// https://www.codechef.com/ALPAST01/problems/FASTROAD
 
 */
