@@ -1,3 +1,5 @@
+// https://cp-algorithms.com/graph/bridge-searching.html
+
 #include <bits/stdc++.h>
 using namespace std ;
 #define N 1001
